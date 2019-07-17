@@ -10,8 +10,8 @@ Japanese NLP TaskList:
 - [ ] Japanese Embedding
 - [ ] Japanese Keyword Extraction
 - [ ] Japanese Named Entity Recognition
-- [ ] Japanese Text Similarity
-- [ ] Japanese Word Similarity
+- [x] Japanese Text Similarity
+- [x] Japanese Word Similarity
 - [ ] Japanese Text Classification
 - [ ] Japanese Transliteration
 
