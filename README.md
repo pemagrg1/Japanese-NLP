@@ -12,7 +12,7 @@ Japanese NLP TaskList:
 - [ ] Japanese Named Entity Recognition
 - [x] Japanese Text Similarity
 - [x] Japanese Word Similarity
-- [ ] Japanese Text Classification
+- [x] Japanese Text Classification
 - [ ] Japanese Transliteration
 
 
