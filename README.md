@@ -1,5 +1,8 @@
 # Japanese-NLP
-Japanese NLP
+
+### In Progress......
+
+Japanese NLP TaskList:
 - [x] Japanese Word Tokenize
 - [x] Japanese Sentence Tokenize
 - [x] Japanese Part of Speech Tagger
