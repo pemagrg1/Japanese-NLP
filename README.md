@@ -11,7 +11,7 @@ Japanese NLP TaskList:
 - [ ] Japanese Dictionary
 - [ ] Japanese Embedding
 - [ ] Japanese Keyword Extraction
-- [ ] Japanese Named Entity Recognition
+- [x] Japanese Named Entity Recognition
 - [x] Japanese Text Similarity
 - [x] Japanese Word Similarity
 - [x] Japanese Text Classification
